@@ -1,13 +1,13 @@
-# Simple blog API with Laravel
+#  Simple blog API with Spring Framework
 
-Uma simples API de CMS desenvolvida com Laravel para um front-end com React.js.
+Uma simples API de CMS desenvolvida com Spring Framework para um front-end com React.js.
 
 ## Informações
 
 Desenvolvido com:
 
-* PHP
-* Laravel
+* Java
+* Spring Framework / Spring Boot
 * React.js
 
 **Nota:** Desenvolvido e testado somente no Linux. Não testado no Windows.
